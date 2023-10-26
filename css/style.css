@@ -9,3 +9,49 @@
 img[alt='logo'] {
     width: 5rem;
 }
+body{
+    text-align: center;
+}
+img[alt='img1'] {
+    width: 15rem;
+    height: 15rem;
+    
+}
+
+/* featured product images */
+img[alt='img2'] {
+    width: 15rem;
+    height: 15rem;
+}
+img[alt='img3'] {
+    width: 15rem;
+    height: 15rem;
+}
+
+/* product images */
+img[alt='prod1'] {
+    width: 15rem;
+    height: 15rem;
+}
+img[alt='prod2'] {
+    width: 15rem;
+    height: 15rem;
+}
+img[alt='prod3'] {
+    width: 15rem;
+    height: 15rem;
+}
+img[alt='prod4'] {
+    width: 15rem;
+    height: 15rem;
+}
+img[alt='prod5'] {
+    width: 15rem;
+    height: 15rem;
+}
+img[alt='prod6'] {
+    width: 15rem;
+    height: 15rem;
+}
+
+

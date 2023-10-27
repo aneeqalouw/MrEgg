@@ -17,7 +17,10 @@ img[alt='img1'] {
     height: 15rem;
     
 }
-
+section {
+    /* so that sticky nav bar doesnt affect the scrolling to different sections */
+    scroll-margin-block: 6rem;
+}
 /* featured product images */
 img[alt='img2'] {
     width: 15rem;

@@ -68,5 +68,13 @@ img[alt='jacob'] {
     width: 15rem;
     height: 15rem;
 }
+#contactusbox {
+    padding: 10px;
+    background: black;
+    width: 500px;
+    color: white;
+    border-radius: 5px;
+
+}
 
 
